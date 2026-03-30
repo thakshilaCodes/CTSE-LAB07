@@ -1,0 +1,13 @@
+{
+  "name": "gateway",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CTSE Lab 07 gateway service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
